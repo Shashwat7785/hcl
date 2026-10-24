@@ -1,4 +1,5 @@
 # BLACK_DRAGONS
+# SHASHWAT SINHA , ADITYA KUMAR SINGH , SWATI GUPTA , PIYUSH GARG
 ShopSphere E-Commerce Analytics Data Engineering Assignment Pipeline:  
 Load raw data Clean &amp; 
 fix issues 
