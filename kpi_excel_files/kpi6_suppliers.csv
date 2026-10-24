@@ -1,0 +1,19 @@
+supplier_id,supplier_name,rating_norm,total_revenue,return_rate,composite_score
+S006,"Lalla, Ganesh and Oommen",3.75,3231721.36,8.75,0.9075
+S015,"Chaudhari, Sandal and Desai",4.1,2858390.33,1.89,0.8845
+S007,"Biswas, Karpe and Radhakrishnan",4.2,2507990.84,2.99,0.834
+S004,"Amble, Prashad and Jha",4.7,2119193.92,4.88,0.8001
+S001,"Baral, Din and Bhalla",4.3,1876722.42,9.38,0.7296
+S012,"Zacharia, Agarwal and Sankar",3.0,1727621.21,9.43,0.6284
+S018,"Amble, Virk and Dalal",5.0,780501.32,4.76,0.6112
+S005,Dhar-Gopal,4.5,938973.77,6.25,0.6028
+S010,"Barad, Wali and Thakur",4.9,734632.98,3.33,0.601
+S014,Raj-Palla,2.5,1698206.49,11.76,0.5892
+S009,"Saini, Doctor and Char",4.0,899812.58,0.0,0.5792
+S002,Varughese Group,2.5,1231225.15,7.69,0.5251
+S011,Subramaniam Ltd,3.3,988178.39,14.81,0.5213
+S008,Babu and Sons,3.7,700964.55,9.52,0.5114
+S003,"Bahl, Mander and Chada",2.9,862228.24,2.5,0.5024
+S016,Chacko LLC,3.85,419963.27,10.0,0.476
+S013,Bassi-Wagle,1.6,925002.73,0.0,0.4391
+S017,"Rege, Kurian and Gulati",2.7,382430.54,18.18,0.3848

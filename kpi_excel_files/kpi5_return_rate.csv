@@ -1,0 +1,71 @@
+product_id,product_name,category,total_qty,returns,return_rate_pct
+P026,Footwear Item 26,Fashion,12,1,8.33
+P042,Staples Item 42,Grocery,35,2,5.71
+P044,Beverages Item 44,Grocery,39,2,5.13
+P018,Team Sports Item 18,Sports,23,1,4.35
+P029,Furniture Item 29,Home And Kitchen,26,1,3.85
+P045,Footwear Item 45,Fashion,26,1,3.85
+P013,Appliances Item 13,Home And Kitchen,27,1,3.7
+P052,Womenswear Item 52,Fashion,27,1,3.7
+P058,Snacks Item 58,Grocery,28,1,3.57
+P009,Furniture Item 9,Home & Kitchen,30,1,3.33
+P049,Beverages Item 49,Grocery,32,1,3.13
+P069,Mobiles Item 69,Electronics,32,1,3.13
+P070,Footwear Item 70 (Revised),Fashion,33,1,3.03
+P035,Cookware Item 35,Home & Kitchen,35,1,2.86
+P034,Fitness Item 34,Sports,36,1,2.78
+P054,Fitness Item 54,,36,1,2.78
+P057,Team Sports Item 57,Sports,43,1,2.33
+P040,Footwear Item 40,Fashion,44,1,2.27
+P007,Outdoor Item 7,Sports,50,1,2.0
+P021,Fitness Item 21,Sports,50,1,2.0
+P065,Footwear Item 65,Fashion,65,1,1.54
+P001,Accessories Item 1 (Revised),Electronics,14,0,0.0
+P002,Furniture Item 2,Home & Kitchen,39,0,0.0
+P003,Staples Item 3,Grocery,25,0,0.0
+P004,Appliances Item 4,Home And Kitchen,48,0,0.0
+P005,Staples Item 5,Grocery,8,0,0.0
+P006,Furniture Item 6,Home And Kitchen,27,0,0.0
+P008,,,25,0,0.0
+P010,Accessories Item 10,Electronics,27,0,0.0
+P011,Beverages Item 11,Grocery,29,0,0.0
+P012,Menswear Item 12,Fashion,33,0,0.0
+P014,Audio Item 14,Electronics,26,0,0.0
+P015,Team Sports Item 15,Sports,26,0,0.0
+P016,Footwear Item 16,Fashion,31,0,0.0
+P017,Furniture Item 17,,20,0,0.0
+P019,Beverages Item 19,Grocery,25,0,0.0
+P020,Beverages Item 20,Grocery,40,0,0.0
+P022,Footwear Item 22,Fashion,27,0,0.0
+P023,Footwear Item 23,Fashion,29,0,0.0
+P024,Footwear Item 24,Fashion,18,0,0.0
+P025,Womenswear Item 25,Fashion,33,0,0.0
+P027,Appliances Item 27,Home And Kitchen,45,0,0.0
+P028,Appliances Item 28,Home And Kitchen,20,0,0.0
+P030,Furniture Item 30,Home And Kitchen,23,0,0.0
+P031,Accessories Item 31,Electronics,43,0,0.0
+P032,Womenswear Item 32,Fashion,17,0,0.0
+P033,Outdoor Item 33,Sports,27,0,0.0
+P036,Staples Item 36,Grocery,29,0,0.0
+P037,Mobiles Item 37,Electornics,43,0,0.0
+P038,Womenswear Item 38,Fashion,26,0,0.0
+P039,Fitness Item 39 (Revised),Sports,19,0,0.0
+P041,Cookware Item 41,Home & Kitchen,52,0,0.0
+P043,Furniture Item 43,Home And Kitchen,26,0,0.0
+P046,Audio Item 46,Electronics,30,0,0.0
+P047,Staples Item 47,Grocery,16,0,0.0
+P048,Staples Item 48,Grocery,46,0,0.0
+P050,Beverages Item 50,Grocery,26,0,0.0
+P051,Footwear Item 51,Fashion,8,0,0.0
+P053,Outdoor Item 53,Sports,45,0,0.0
+P055,Staples Item 55,Grocery,38,0,0.0
+P056,Audio Item 56,Electronics,36,0,0.0
+P059,,,32,0,0.0
+P060,Staples Item 60 (Revised),Grocery,28,0,0.0
+P061,Furniture Item 61,Home & Kitchen,49,0,0.0
+P062,Cookware Item 62,Home And Kitchen,34,0,0.0
+P063,Beverages Item 63,Grocery,42,0,0.0
+P064,Womenswear Item 64,Fashion,17,0,0.0
+P066,Staples Item 66,,28,0,0.0
+P067,Appliances Item 67,Home & Kitchen,29,0,0.0
+P068,Staples Item 68,Grocery,55,0,0.0
